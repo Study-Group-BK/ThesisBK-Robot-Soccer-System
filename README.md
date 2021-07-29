@@ -1,5 +1,14 @@
-# ThesisBK - Robot soccer system
+# ThesisBK - Robot Soccer System
 
-Robot soccer system is a project of the Study Group, which is also the graduation thesis of 4 members.
+Robot soccer system is a project of the Study Group, it is conducted into two parts:
 
-![Robot soccer system](Robot%20soccer%20system.jpg)
+- Design and Implementation of Vision and Communication in a Robot Soccer System
+- Design and Implementation of Compact Soccer Robots
+
+A soccer robot is a specialized autonomous robot and mobile robot that is used to play variants of soccer. Robot soccer games are the competitions where two teams of robots play soccer autonomously without direct control from human.
+
+The idea of robot soccer games started in 1997 by Alan Mackworth, which has evolved into international robotics competitions. The main organised competitions are RoboCup or FIRA tournaments played each year.
+
+In this project, we create a prototype of a small robot soccer system with 2 robots, as shown in the figure below.
+
+![Robot soccer system](Robot%20soccer%20system%20with%20index.jpg)
