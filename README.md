@@ -11,7 +11,7 @@ The idea of robot soccer games started in 1997 by Alan Mackworth, which has evol
 
 In this project, we create a prototype of a small robot soccer system with 2 robots, as shown in the figure below.
 
-![Robot soccer system](Robot%20soccer%20system%20with%20index.jpg)
+![Robot soccer system](Images/Robot%20soccer%20system%20with%20index.jpg)
 
 1. Camera: for computer vision, it is the eye of the system
 2. Off-field computer: the main controller of the system which processes the images and sends command to control the robots' motion.
