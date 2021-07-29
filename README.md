@@ -2,4 +2,4 @@
 
 Robot soccer system is a project of the Study Group, which is also the graduation thesis of 4 members.
 
-![Robot soccer system](https://github.com/Study-Group-BK/ThesisBK-Robot-Soccer-System/blob/main/soccer%20field.PNG?raw=true)
+![Robot soccer system](https://github.com/Study-Group-BK/ThesisBK-Robot-Soccer-System/blob/main/soccer%20field.PNG)
