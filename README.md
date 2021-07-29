@@ -19,4 +19,5 @@ In this project, we create a prototype of a small robot soccer system with 2 rob
 4. Ball: the ball is a standard golf ball
 
 The soccer robot:
+
 ![Soccer Robots](Images/Soccer%20robot.jpg)
