@@ -1,4 +1,4 @@
-# ThesisBK - Robot Soccer System
+# Robot Soccer System
 
 Robot soccer system is a project of the Study Group, it is conducted into two parts:
 
@@ -17,3 +17,6 @@ In this project, we create a prototype of a small robot soccer system with 2 rob
 2. Off-field computer: the main controller of the system which processes the images and sends command to control the robots' motion.
 3. Soccer robots: the players of the game
 4. Ball: the ball is a standard golf ball
+
+The soccer robot:
+![Soccer Robots](Images/Soccer%20robot.jpg)
