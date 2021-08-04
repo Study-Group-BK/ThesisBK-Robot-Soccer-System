@@ -21,3 +21,7 @@ In this project, we create a prototype of a small robot soccer system with 2 rob
 The soccer robot:
 
 ![Soccer Robots](Images/Soccer%20robot.jpg)
+
+The control loop diagram:
+
+![Control loop](Images/Control%20loop.jpg)
